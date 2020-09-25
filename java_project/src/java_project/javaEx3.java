@@ -1,8 +1,8 @@
 package java_project;
 
-public class javaEx1 {
+public class javaEx3 {
 	public static void main(String [] args) {
-		System.out.println("Hellow eclipes!");
-		
+		String name;
+		String price;
 	}
 }
